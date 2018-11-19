@@ -1,2 +1,2 @@
 # Keyboard
-C++ Qt software for checking the keyboard handwriting(end???)
+C++ Qt software for checking the keyboard handwriting(english???)
